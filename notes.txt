@@ -1,0 +1,10 @@
+1. To learn blockchain demo, like how blocks work and transaction are hashed, please refer to -
+
+https://andersbrownworth.com/blockchain/block
+
+2. To learn about the gas costs based on opertion type, please refer - 
+
+https://github.com/djrtwo/evm-opcode-gas-costs/blob/master/opcode-gas-costs_EIP-150_revision-1e18248_2017-04-12.csv
+
+3. To find all the account from a Mnemonic, please refer to
+
