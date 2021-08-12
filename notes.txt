@@ -8,3 +8,9 @@ https://github.com/djrtwo/evm-opcode-gas-costs/blob/master/opcode-gas-costs_EIP-
 
 3. To find all the account from a Mnemonic, please refer to
 
+
+
+Learn about the following terms in details, try to develop something if possible
+
+DeFi App, NFT, IPFS
+
