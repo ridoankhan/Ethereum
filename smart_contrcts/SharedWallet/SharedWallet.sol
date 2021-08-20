@@ -1,3 +1,14 @@
+/*
+Anyone can deposit in the contract
+
+Owner can withdraw all ether from contract to a specific address
+
+Non-owner can withdraw ether depending on the allowance to specific address and specific amount
+
+Owner can change allowance for a specific address
+
+*/
+
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.1;
